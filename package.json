@@ -1,0 +1,22 @@
+{
+  "name": "clase-5-backend-coderhouse",
+  "version": "1.0.0",
+  "description": "Desafio clase 5",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [
+    "NPM",
+    "DESAFIO"
+  ],
+  "author": "Martin L",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
